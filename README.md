@@ -13,8 +13,8 @@ This is just an area to keep track of our groups journals, all other parts of th
 1. View events
 2. View news
 3. View professors
-4. View classes
-5. WebService backend (AJAX, ASP.NET, SQL Server)
+4. View job postings
+5. WebService backend (JSON, ASP.NET, Windows Azure Table storage)
 
 ####Team Members
 1. Chris Field
